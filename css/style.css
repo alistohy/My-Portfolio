@@ -1,0 +1,69 @@
+body{
+    font-family: "Kode Mono", monospace;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #F5DD61, #F4538A);
+    background-size: 180% 180%;
+    animation: gradient-animation 5 s ease infinite;    
+  }
+h1{
+    align-content: center;
+    justify-content: center;
+}
+
+#top-container{
+    position: relative;
+    background-color: #F5DD61;
+    padding-top: 100px;
+    text-align: center;
+    height: 646px;
+}
+
+div{
+    display: block;
+}
+
+.vrefy{
+    display: flex;
+    position:static;
+    padding-top : 20px;
+    width: 5rem;
+    margin-top: -90px;
+    padding-left: 20px;
+}
+
+.info{
+    height: 650px;
+    text-align: center;
+    padding-top: 170px;
+    background-color: antiquewhite;
+    justify-content: center;
+}
+
+.skilles{
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(250, 235, 215, 0.384);
+    height: auto;
+    padding-top: 200px;
+
+}
+
+.scd{
+    padding-top: 100px;
+}
+
+.third{
+    padding-top: 100px;
+}
+
+.contact{
+    text-align: center;
+    padding-top: 130px;
+    background-color: #59D5E0;
+    height: auto;
+}
+.conbot{
+    padding-left: 237px;
+}
